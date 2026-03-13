@@ -3,8 +3,8 @@
 👯 I'm looking to collaborate on<br>Full-stack web projects involving Next.js, React, or Node.js — especially ones with real-world utility<br>
 🤝 I'm looking for help with<br>Advanced DSA problem-solving patterns and system design concepts<br>
 🌱 I'm currently learning<br>Next.js 14 App Router (Server Actions, ISR/SSR/SSG strategies), Prisma ORM, and sharpening DSA for placements<br>
-💬 Ask me about<br>MERN stack, JWT auth & security architecture, AES-256 encryption, REST API design, or full-stack deployment on Vercel + Render<br>
-⚡ Fun fact<br>I built a zero-knowledge password vault where even the server never sees your actual passwords — all encryption happens client-side with your master password
+💬 Ask me about<br>MERN stack, authentication systems (JWT/OAuth), security architecture & AES-256 encryption, REST API design, Next.js App Router architecture or full-stack deployment on Vercel + Render<br>
+⚡ Fun fact<br>I built a password manager using AES-256-GCM encryption with PBKDF2 key derivation — even if the database is compromised, every stored password is useless without the master password
 
 
 ## 🌐 Socials:
