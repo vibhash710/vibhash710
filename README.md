@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I'm currently working on<br>GateDrop — a digital product marketplace built with Next.js 14 App Router, Stripe, Prisma, and NextAuth v5<br>👯 I'm looking to collaborate on<br>Full-stack web projects involving Next.js, React, or Node.js — especially ones with real-world utility<br>🤝 I'm looking for help with<br>Advanced DSA problem-solving patterns and system design concepts<br>🌱 I'm currently learning<br>Next.js 14 App Router (Server Actions, ISR/SSR/SSG strategies), Prisma ORM, and sharpening DSA for placements<br>💬 Ask me about<br>MERN stack, JWT auth & security architecture, AES-256 encryption, REST API design, or full-stack deployment on Vercel + Render<br>⚡ Fun fact<br>I built a zero-knowledge password vault where even the server never sees your actual passwords — all encryption happens client-side with your master password
+🔭 I'm currently working on<br>GateDrop — a digital product marketplace built with Next.js 14 App Router, Stripe, Prisma, and NextAuth v5<br>
+👯 I'm looking to collaborate on<br>Full-stack web projects involving Next.js, React, or Node.js — especially ones with real-world utility<br>
+🤝 I'm looking for help with<br>Advanced DSA problem-solving patterns and system design concepts<br>
+🌱 I'm currently learning<br>Next.js 14 App Router (Server Actions, ISR/SSR/SSG strategies), Prisma ORM, and sharpening DSA for placements<br>
+💬 Ask me about<br>MERN stack, JWT auth & security architecture, AES-256 encryption, REST API design, or full-stack deployment on Vercel + Render<br>
+⚡ Fun fact<br>I built a zero-knowledge password vault where even the server never sees your actual passwords — all encryption happens client-side with your master password
 
 
 ## 🌐 Socials:
